@@ -1,4 +1,4 @@
 .secrets
 
 dotfiles/okta_aws_login_config
-profile/secondary/.aliases
+profile/secondary/personal_aliases.sh
